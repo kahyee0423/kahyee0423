@@ -13,21 +13,6 @@
   <img src="https://img.shields.io/static/v1?message=Google%20Developer&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Google Developer logo" />
 </a>
 
-## Hi there 👋
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nb212NDNubXBpZnlrcGJlZWprbWM4MzRmM2s1ZTIzbHJ5b2JnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/kahyee0423" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  
-  <a href="https://g.dev/kahyee0423" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Google%20Developer&logo=google&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Google Developer logo" />
-</a>
-
 <a href="https://kahyee0423.github.io/HorKahYee2304/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=About.me&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website logo" />
   </a>
