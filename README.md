@@ -25,12 +25,13 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 <a href="https://www.kaggle.com/kahyee0423">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Kaggle" />
 </a>
-</div>
 
 <a href="https://twitter.com/kahyxx0423">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter" />
-  </a>
-  
+</a>
+
+</div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kahyee0423.kahyee0423" alt="Visitor Count" />
 </div>
