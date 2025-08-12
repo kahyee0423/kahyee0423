@@ -1,18 +1,6 @@
 ## 👩‍💻 About Me  
 Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud professional passionate about **Cloud Computing**, **AI**, **Data Analytics** and **Cybersecurity**.  
 
-### 💡 Credentials & Achievements  
-- 🎓 Certified in **Google Cloud Data Analytics**, **Computing Foundations**, **Cybersecurity**, and **Alibaba Cloud**  
-- 🤖 **AWS AI & ML Scholar** | Alumni of **Google Cloud Skills Boost** & **Alibaba Cloud Academy**  
-- 🏆 **Silver Award** — PIITRAM 2023 (*MYIPO-certified innovation*)  
-- 🏅 **Google Cloud The Arcade Champion Milestone** (Cohort 2 2024)  
-- 🎤 **Speaker & Mentor** — delivered talks, workshops & committee for national hackathons (*MY Universities Hackathon*)  
-
-
-### 🚀 Leadership & Community  
-- **Head of Event Planning & Culture Development** at *GDGoC USM* — led strategic planning and execution of community-building initiatives
-- **Project Director** at *TechFest USM* and *Build with AI USM* — driving innovation, industry engagement and hands-on learning opportunities
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nb212NDNubXBpZnlrcGJlZWprbWM4MzRmM2s1ZTIzbHJ5b2JnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Welcome GIF" />
 </div>
@@ -42,6 +30,18 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kahyee0423.kahyee0423" alt="Visitor Count" />
 </div>
+
+### 💡 Credentials & Achievements  
+- 🎓 Certified in **Google Cloud Data Analytics**, **Computing Foundations**, **Cybersecurity**, and **Alibaba Cloud**  
+- 🤖 **AWS AI & ML Scholar** | Alumni of **Google Cloud Skills Boost** & **Alibaba Cloud Academy**  
+- 🏆 **Silver Award** — PIITRAM 2023 (*MYIPO-certified innovation*)  
+- 🏅 **Google Cloud The Arcade Champion Milestone** (Cohort 2 2024)  
+- 🎤 **Speaker & Mentor** — delivered talks, workshops & committee for national hackathons (*MY Universities Hackathon*)  
+
+
+### 🚀 Leadership & Community  
+- **Head of Event Planning & Culture Development** at *GDGoC USM* — led strategic planning and execution of community-building initiatives
+- **Project Director** at *TechFest USM* and *Build with AI USM* — driving innovation, industry engagement and hands-on learning opportunities
 
 ---
 
