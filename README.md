@@ -1,4 +1,17 @@
-## Hi there 👋
+## 👩‍💻 About Me  
+Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud professional passionate about **Cloud Computing**, **AI**, **Data Analytics** and **Cybersecurity**.  
+
+### 💡 Credentials & Achievements  
+- 🎓 Certified in **Google Cloud Data Analytics**, **Computing Foundations**, **Cybersecurity**, and **Alibaba Cloud**  
+- 🤖 **AWS AI & ML Scholar** | Alumni of **Google Cloud Skills Boost** & **Alibaba Cloud Academy**  
+- 🏆 **Silver Award** — PIITRAM 2023 (*MYIPO-certified innovation*)  
+- 🏅 **Google Cloud The Arcade Champion Milestone** (Cohort 2 2024)  
+- 🎤 **Speaker & Mentor** — delivered talks, workshops & led national hackathons (*MY Universities Hackathon*)  
+
+
+### 🚀 Leadership & Community  
+- **EXCO & Lead** at *GDGoC USM* — Event Planning & Culture Development  
+- **Project Director** at *TechFest USM* — driving innovation and industry engagement  
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nb212NDNubXBpZnlrcGJlZWprbWM4MzRmM2s1ZTIzbHJ5b2JnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Welcome GIF" />
