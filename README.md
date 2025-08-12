@@ -10,8 +10,8 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 
 
 ### 🚀 Leadership & Community  
-- **EXCO & Lead** at *GDGoC USM* — Event Planning & Culture Development  
-- **Project Director** at *TechFest USM* — driving innovation and industry engagement  
+- **Head of Event Planning & Culture Development** at *GDGoC USM* —   
+- **Project Director** at *TechFest USM and Build with AI USM* — driving innovation and industry engagement  
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5nb212NDNubXBpZnlrcGJlZWprbWM4MzRmM2s1ZTIzbHJ5b2JnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Welcome GIF" />
