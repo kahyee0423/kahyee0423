@@ -22,6 +22,10 @@
   </a>
 </div>
 
+<a href="https://www.kaggle.com/kahyee0423" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Kaggle" />
+</a>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kahyee0423.kahyee0423" alt="Visitor Count" />
 </div>
