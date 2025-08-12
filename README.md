@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://kahyee0423.github.io/HorKahYee2304/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=About.me&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website logo" />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=About.me&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Website logo" />
   </a>
   
   <a href="https://twitter.com/kahyxx0423" target="_blank">
