@@ -6,7 +6,7 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 - 🤖 **AWS AI & ML Scholar** | Alumni of **Google Cloud Skills Boost** & **Alibaba Cloud Academy**  
 - 🏆 **Silver Award** — PIITRAM 2023 (*MYIPO-certified innovation*)  
 - 🏅 **Google Cloud The Arcade Champion Milestone** (Cohort 2 2024)  
-- 🎤 **Speaker & Mentor** — delivered talks, workshops & led national hackathons (*MY Universities Hackathon*)  
+- 🎤 **Speaker & Mentor** — delivered talks, workshops & committee for national hackathons (*MY Universities Hackathon*)  
 
 
 ### 🚀 Leadership & Community  
