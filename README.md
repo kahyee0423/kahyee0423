@@ -81,7 +81,6 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 
 </div>
----
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kahyee0423&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
