@@ -45,7 +45,7 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="left">🛠 Tech Stack</h2>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 </div>
 
 
-<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<h2 align="left">⚡ My GitHub Stats ⚡</h2>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kahyee0423&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
