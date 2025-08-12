@@ -18,15 +18,19 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
     <img src="https://img.shields.io/static/v1?message=Website&logo=About.me&label=&color=8A2BE2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Website" />
   </a>
   
-  <a href="https://twitter.com/kahyxx0423">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter" />
-  </a>
+<a href="https://discordapp.com/users/kahyee0423" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Discord" />
+</a>
 
 <a href="https://www.kaggle.com/kahyee0423">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Kaggle" />
 </a>
 </div>
 
+<a href="https://twitter.com/kahyxx0423">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter" />
+  </a>
+  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kahyee0423.kahyee0423" alt="Visitor Count" />
 </div>
