@@ -29,7 +29,6 @@ Hi, I’m **Kah Yee** — a technology enthusiast and certified cloud profession
 <a href="https://twitter.com/kahyxx0423">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter" />
 </a>
-
 </div>
 
 <div align="center">
